@@ -6,3 +6,5 @@ Az FN kezdetűek a F(N) függvényt számolják ki, azaz a fidelity függését 
 Hasonlóan az FQ F(q) függvényre, tehát a fidelity paraméterfüggésére utal. A kvantumos paraméterfüggés is örökli ezt a nevet, hiába nincsen benne q.
 
 A simulate_quantum.py,  a qtree.py és final2.py működő, de optimalizálatlan kódok. Ezeket AI nélkül írtam, így nagyon lassan futnak, de talán emberi olvasók számára érthetőbbek.
+
+A szamolas.py a legelső kód, amit írtam a projekthez, ez a kvantumos modell alagutazás nélküli eseténél látható binomiális eloszlásokat jeleníti meg.
